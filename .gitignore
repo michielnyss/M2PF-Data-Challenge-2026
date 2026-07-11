@@ -1,0 +1,11 @@
+# Data (too large for git — re-download from QRT / regenerate)
+data/*.csv
+data/checkpoints/
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor/IDE
+.spyproject/
