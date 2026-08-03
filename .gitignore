@@ -1,0 +1,35 @@
+# Data files (download from the challenge organizer, keep in project root)
+*.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.zip
+*.gz
+
+# Jupyter / notebook state
+.ipynb_checkpoints/
+
+# Spyder
+.spyproject/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.local
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
