@@ -1,4 +1,4 @@
-# Data files (download from the challenge organizer, keep in project root)
+# Data files (download from the challenge organizer into data/)
 *.csv
 *.parquet
 *.feather
@@ -10,6 +10,10 @@
 *.npz
 *.zip
 *.gz
+
+# Keep the folder structure
+!data/.gitkeep
+!submissions/.gitkeep
 
 # Jupyter / notebook state
 .ipynb_checkpoints/
